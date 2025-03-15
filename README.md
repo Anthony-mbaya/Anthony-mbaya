@@ -28,17 +28,28 @@ Cloud Platforms: AWS, Vercel
 🚀 Projects
 Here are some of the projects I've built to showcase my skills:
 
-[Project Name 1] - A brief description of the project (e.g., "An e-commerce platform built with React and Django").
+✅ CruxFurge
+❇️ An online event update platform built with (NextJS, Sanity and Setry)
+🔗 https://crux-furge-next-js.vercel.app/
 
-(Add links to live demos and GitHub repositories for each project.)
+
+✅ Charity_app
+❇️ Hande onlinre contributions from well wishers and pass information about the charity organization (React, TailwindCSS)
+🔗 https://charity-site-seven.vercel.app/
+
+
+✅ Recipe APIS
+❇️ Reastful apis that handle creation, retriaval , update and delete of recipes (Django, DRF, Docker) 
+
+✅ Crux_Bliss
+❇️ Online E-commerce platform for furniture products (React, TailwindCSS)
+🔗 https://crux-bliss-comfort.vercel.app/
+ 
 
 🌱 What I'm Currently Learning
 I believe in continuous learning and staying updated with the latest technologies. Currently, I'm exploring:
-
 GraphQL for more efficient API design.
-
 Kubernetes for advanced container orchestration.
-
 Serverless Architecture for scalable and cost-effective solutions.
 
 📫 Let's Connect!
@@ -56,17 +67,3 @@ Twitter: https://x.com/crux_ton
 When I'm not coding, I enjoy Hiking,Watching documentaries, meditation, Playing card games, Contributing to open-source projects
 
 Thanks for visiting my profile! Let's build something amazing together. 🚀
-<!--
-**Anthony-mbaya/Anthony-mbaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
