@@ -29,27 +29,38 @@ Cloud Platforms: AWS, Vercel
 Here are some of the projects I've built to showcase my skills:
 
 ✅ CruxFurge
+
 ❇️ An online event update platform built with (NextJS, Sanity and Setry)
+
 🔗 https://crux-furge-next-js.vercel.app/
 
 
 ✅ Charity_app
+
 ❇️ Hande onlinre contributions from well wishers and pass information about the charity organization (React, TailwindCSS)
+
 🔗 https://charity-site-seven.vercel.app/
 
 
 ✅ Recipe APIS
-❇️ Reastful apis that handle creation, retriaval , update and delete of recipes (Django, DRF, Docker) 
+
+❇️ Restful apis that handle creation, retriaval , update and delete of recipes (Django, DRF, Docker) 
 
 ✅ Crux_Bliss
+
 ❇️ Online E-commerce platform for furniture products (React, TailwindCSS)
+
 🔗 https://crux-bliss-comfort.vercel.app/
  
 
 🌱 What I'm Currently Learning
+
 I believe in continuous learning and staying updated with the latest technologies. Currently, I'm exploring:
+
 GraphQL for more efficient API design.
+
 Kubernetes for advanced container orchestration.
+
 Serverless Architecture for scalable and cost-effective solutions.
 
 📫 Let's Connect!
