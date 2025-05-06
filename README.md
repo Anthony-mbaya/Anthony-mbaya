@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I'm Dev_Tonny - CuxTon
+👋 Hi, I'm Dev_Tonny -
 Full Stack Developer | React & Django Specialist | DevOps Enthusiast
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in building modern, scalable, and user-friendly web applications. I specialize in frontend development with React, Next.js, and TailwindCSS, and backend development with Python, Django, and Django REST Framework (DRF). I also have hands-on experience with Docker, REST APIs, and DevOps practices to ensure seamless deployment and scalability.
 
